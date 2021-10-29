@@ -1,0 +1,11 @@
+state: enabled
+email: meyerkev248@gmail.com
+fullname: 'Kevin Meyer'
+title: Admin
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$dCEtVVMNrzQr9zUVDgkm/uGeFZph558gysa1xtslt3S2UOiOn7btm
