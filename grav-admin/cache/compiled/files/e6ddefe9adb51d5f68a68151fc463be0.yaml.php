@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/home/meyerkev/development/website_work/grav-admin/user/plugins/admin/languages/vi.yaml',
-    'modified' => 1635466291,
+    'modified' => 1635468709,
     'data' => [
         'PLUGIN_ADMIN' => [
             'ADMIN_BETA_MSG' => 'Đây là phiên bản thử nghiệm! Bạn phải tự chịu rủi ro khi sử dụng trong production...',
